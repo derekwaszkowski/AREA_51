@@ -60,7 +60,7 @@ public class FlyingFishView extends View {
 
 
 
-        backgroundImage = BitmapFactory.decodeResource(getResources(), R.drawable.a51_90);
+        backgroundImage = BitmapFactory.decodeResource(getResources(), R.drawable.area_51_720);
 
         yellowPaint.setColor(Color.YELLOW);
         yellowPaint.setAntiAlias(false);
